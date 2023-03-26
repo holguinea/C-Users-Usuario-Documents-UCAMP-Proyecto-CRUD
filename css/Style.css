@@ -1,0 +1,22 @@
+body{
+    background-color:black;
+    color: white;
+}
+
+*{
+    color: white
+}
+#btnActualizar{
+    display: none;
+}
+
+
+
+
+footer{
+    background-color: black;
+    background-size: cover;
+    position:relative;
+    padding-top:5px importat !important;
+    padding-bottom:5px!important;
+} 
