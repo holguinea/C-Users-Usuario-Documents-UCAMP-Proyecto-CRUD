@@ -1,17 +1,19 @@
 body{
-    background-color:black;
+    background-color:#053c72 ;
     color: white;
 }
 
+.logo{
+    width: 160px;
+    height: 140px;
+    object-fit:contain;
+}
 *{
     color: white
 }
 #btnActualizar{
     display: none;
 }
-
-
-
 
 footer{
     background-color: black;
