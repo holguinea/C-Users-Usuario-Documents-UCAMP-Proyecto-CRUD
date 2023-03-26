@@ -15,6 +15,11 @@ body{
     display: none;
 }
 
+tr{
+    background-color: gray;
+    border-color: gold;
+}
+
 footer{
     background-color: black;
     background-size: cover;
